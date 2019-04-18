@@ -15,3 +15,4 @@ ssh to server and run CLI command
 - Add flow for https
 
 requires a webcredits server and to hit the payment URI, and also a key pair
+port the webcredits server to the latest version of node solid server
